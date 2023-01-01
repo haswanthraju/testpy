@@ -1,2 +1,2 @@
-print("hellod")
+print("hell;od")
 print("hwllow")
